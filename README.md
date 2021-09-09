@@ -1,3 +1,2 @@
 # github
-staged
-committed
+edited in local directory
