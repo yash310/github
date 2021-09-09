@@ -1,1 +1,4 @@
 # github
+staged
+committed
+pushed
