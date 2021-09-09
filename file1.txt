@@ -1,2 +1,4 @@
 First text file
 edited to perform comparision
+second edit
+third edit

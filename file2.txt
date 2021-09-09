@@ -1,2 +1,4 @@
 Second file
 edited to compare changes
+Second edited
+third edited
